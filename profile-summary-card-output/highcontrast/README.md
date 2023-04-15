@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/laprasdrum/github-profile/master/profile-summary-card-output/highcontrast/4-productive-time.svg)
+```
+
+    
