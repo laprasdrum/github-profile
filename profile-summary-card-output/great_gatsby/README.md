@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/laprasdrum/github-profile/master/profile-summary-card-output/great_gatsby/4-productive-time.svg)
-```
-
-    
