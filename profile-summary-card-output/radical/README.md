@@ -15,16 +15,6 @@
 ### Each card usage
 ---
 
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/laprasdrum/github-profile/master/profile-summary-card-output/radical/1-repos-per-language.svg)
-```
-
-    
-
----
-
 ![](./2-most-commit-language.svg)
 
 ```
